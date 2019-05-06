@@ -1,0 +1,17 @@
+﻿  DemoTest.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2585): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\pzh\source\repos\opencvtest9\opencvtest\demotest.cpp(38): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\pzh\source\repos\opencvtest9\opencvtest\demotest.cpp(288): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+c:\users\pzh\source\repos\opencvtest9\opencvtest\demotest.cpp(349): warning C4326: “main”的返回类型应为“int”而非“void”
+  OpencvTest.vcxproj -> C:\Users\PZH\source\repos\OpencvTest9\x64\Debug\OpencvTest.exe
